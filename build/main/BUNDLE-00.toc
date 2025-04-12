@@ -1,0 +1,3 @@
+([('main',
+   '/Users/macbookairm2/Desktop/CookieCatjcherUser/dist/main',
+   'EXECUTABLE')],)
